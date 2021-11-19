@@ -1,15 +1,15 @@
 # Machine Learning Projects
 
 # Why this repository?
-# • The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!
-# • It looks good, isn't it?
+• The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!
+• It looks good, isn't it?
 
-Overview
+# Overview
 • This repository consists of all my Machine Learning projects.
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
-Algorithms used
-Regression:
+# Algorithms used
+# Regression:
 • Linear Regression
 • Multiple-Linear Regression
 • Logistic Regression
@@ -17,16 +17,16 @@ Regression:
 • Lasso and Ridge Regression (L1 & L2 Regularization)
 • Elastic-Net Regression
 
-Classification:
+# Classification:
 • K-Nearest Neighbours
 • Support Vector Machine
 • Naive Bayes
 • Decision Tree
 
-Clustering:
+# Clustering:
 • K-Means
 
-Ensemble:
+# Ensemble:
 • Random Forest
 • Adaptive Boosting (AdaBoost)
 • Extreme Gradient Boosting (XGBoost)
