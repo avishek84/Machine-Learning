@@ -2,7 +2,7 @@
 <ul style="list-style-type: square;">
     <li>The data is cleaned and then Univariate and Bivariate Analysis is performed on the dataset. </li>
     <li>Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook has<br>been used.</li>
-    <li>Used Linear Regression, Random Forest, SVR, Decision Tree for building a peoper model for the dataset.</li>
+    <li>Used Linear Regression, Random Forest, SVR, Decision Tree for building a proper model for the dataset.</li>
 </ul>
 <p><br></p>
 <p><br></p>
