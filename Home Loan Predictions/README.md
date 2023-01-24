@@ -6,7 +6,7 @@
     <li>The data is cleaned and then Univariate and Bivariate Analysis, Feature Engineering are performed on the dataset.</li>
     <li>Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Jupyter Notebook has<br>been used.</li>
     <li>Used Logistic Regression, K-Nearest Neighbours, Linear SVC, Decision Tree Classifier, Random Forest Classifier to build the model.</li>
-    <li>Finally, Logistic Regression is chosen to build the model.</li>
+    <li>Finally, Logistic Regression is chosen to build the model and achieved an accuracy of 80.94%.</li>
 </ul>
 <p><br></p>
 <p><br></p>
